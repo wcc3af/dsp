@@ -60,7 +60,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+nano, no real complicated reasons...I'm just more used to nano than the other editors.
 
 --
 
@@ -68,6 +68,6 @@ What terminal editor will you use? How did you make your decision?
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Atom.  I used atom to develop cross platform application using meteor so I am really comfortable with it and like how open and customizable it is.  (But probably I'll be using jupyter notebook more for data exploration and trying ml structures)
 
  
